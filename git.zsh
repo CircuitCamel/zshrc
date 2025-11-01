@@ -1,0 +1,5 @@
+alias gp="git push"
+alias gu="git pull"
+alias gl="git log"
+alias gs="git status"
+alias glazy="git add . && git commit -m '$(date)' && git push"
