@@ -1,4 +1,5 @@
-alias glazy="bash ~/.config/zshrc/glazy.sh"
+alias glazy="bash ~/.config/zshrc/scripts/glazy.sh"
+alias gtrack="bash ~/.config/zshrc/scripts/gtrack.sh"
 alias gp="git push"
 alias gu="git pull"
 alias gl="git log --oneline --graph"
